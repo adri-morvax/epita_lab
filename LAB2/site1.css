@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lacquer');
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
+body {
+
+    font-family: 'Lacquer';
+  background-color: powderblue;
+  font-size: 20px;
+}
+h1{
+    
+}
+h4{
+    font-family: 'Sofia';
+}
+
+
+p {
+  color: red;
+}
